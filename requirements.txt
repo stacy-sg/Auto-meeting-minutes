@@ -1,0 +1,19 @@
+# 음성 인식
+faster-whisper>=1.0.0
+
+# LLM 연동
+ollama>=0.3.0
+
+# 문서 생성
+python-docx>=1.1.0
+docx2pdf>=0.1.8
+
+# 환경변수
+python-dotenv>=1.0.0
+
+# Windows COM (HWP 자동화)
+pywin32>=306
+
+# CLI / UI
+typer>=0.12.0
+rich>=13.0.0
